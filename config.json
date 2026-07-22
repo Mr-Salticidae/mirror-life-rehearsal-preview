@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://tiaozhuxiansheng.com/mlr-api/v1",
+  "model": "gpt-5.5",
+  "visionModel": "gpt-5.5",
+  "visionMaxTokens": 1100,
+  "fallbackBaseUrl": "http://127.0.0.1:1234/v1",
+  "fallbackModel": "qwen2.5-vl-7b-instruct",
+  "timeoutMs": 20000,
+  "reportBase": "https://tiaozhuxiansheng.com/mlr/"
+}
